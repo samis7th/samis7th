@@ -52,6 +52,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/samis7th/samis7th/output/snake.svg" alt="Snake animation" />
 
 ###
