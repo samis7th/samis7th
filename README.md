@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samis7th&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="110" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=samis7th&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samis7th&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="140" alt="languages graph"  />
 </div>
 
@@ -43,6 +43,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samis7th/samis7th/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samis7th/samis7th/output/pacman-contribution-graph.svg">
@@ -53,7 +55,8 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/samis">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=samis&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=samis&count=5&unique=true" alt="Spotify recently played"  />
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=aub1gk1hikowdil2zzxst38gq&unique={true|1|on|yes})
   </a>
 </div>
 
