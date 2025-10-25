@@ -52,8 +52,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/samis7th/samis7th/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src=<div class="tenor-gif-embed" data-postid="17416047" data-share-method="host" data-aspect-ratio="1.73913" data-width="100%"><a href="https://tenor.com/view/anime-eye-wake-up-open-eyes-sad-gif-17416047">Anime Eye GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> />
+</div>
 
 ###
