@@ -48,8 +48,5 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://tenor.com/pt-BR/view/jakes-starter-collection-gif-15857336718579811055"  />
-</div>
 
 ###
