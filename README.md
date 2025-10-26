@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">- Estudante de Engenharia de Software  - 6º semestre<br>- Desenvolvedor Java<br>- Desenvolvedor N8N<br>- Soluções com Inteligência Artificial</h3>
+<h3 align="left">- Estudante de Engenharia de Software  - 6º semestre<br>- Low Code<br>- Desenvolvedor N8N<br>- Soluções com Inteligência Artificial</h3>
 
 ###
 
