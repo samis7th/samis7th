@@ -15,17 +15,6 @@
 
 ###
 
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samis7th&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samis7th&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="140" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="left">Techs</h2>
 
 ###
