@@ -1,6 +1,8 @@
+<h1 align="center">Samuel Trevisan</h1>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Samuel+Trevisan;Software+Engineering+Student;N8N+Developer+%26+Process+Automation;AI+Solutions+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;N8N+Developer+%26+Process+Automation;AI+Solutions+Builder)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,28 +25,46 @@ Currently expanding into Cloud Computing with AWS and Cybersecurity, with a stro
 
 ---
 
+## Experience
+
+**Development Intern** — HM Solucoes `Oct 2025 - Present`
+- Built N8N automations to eliminate repetitive tasks and optimize client communication
+- Developed WhatsApp-integrated flows reducing response time and increasing operational efficiency
+- Integrated Google Sheets via API for automated data centralization and organization
+- Also acted as IT Technician and logistics assistant, supporting infrastructure and operational routines
+
+**IT Support Technician (Intern)** — Prefeitura de Lins `1 year 7 months`
+- Resolved 100+ support tickets via on-site and remote assistance
+- Maintained network infrastructure including cabling, routers and switches
+- Installed and configured Windows and Linux operating systems
+- Managed IT inventory, documentation and internal user support
+
+---
+
 ## Tech Stack
 
 <div align="center">
 
-**Languages**
+**Programming Languages**
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Automation & AI**
 
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Tools**
+**Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -71,9 +91,7 @@ Currently expanding into Cloud Computing with AWS and Cybersecurity, with a stro
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samis7th&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samis7th&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=samis7th&theme=algolia&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
