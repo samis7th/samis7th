@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Samuel+Trevisan;Software+Engineering+Student;Low+Code+%26+N8N+Developer;AI+Solutions+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Samuel+Trevisan;Software+Engineering+Student;N8N+Developer+%26+Process+Automation;AI+Solutions+Builder)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-trevisan)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelltrevisan@gmail.com)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/sh2kan)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/509035996927623202)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/aub1gk1hikowdil2zzxst38gq?si=603fe6b00b654935)
 
 </div>
@@ -15,9 +15,11 @@
 
 ## About
 
-Software Engineering student in the 6th semester, focused on Low Code development, workflow automation with N8N, and building intelligent solutions powered by Artificial Intelligence.
+Software Engineering student in the 7th semester, currently working as a Development Intern at HM Solucoes, where I build N8N automations to eliminate repetitive tasks and optimize client communication — including WhatsApp-integrated flows and Google Sheets data pipelines via API.
 
-Currently exploring cloud infrastructure, data integration, and process automation to deliver scalable and efficient systems.
+Previously worked for over 1.5 years as an IT Support Technician at the city of Lins, handling more than 100 support tickets, network infrastructure maintenance, and OS configuration across Windows and Linux environments.
+
+Currently expanding into Cloud Computing with AWS and Cybersecurity, with a strong foundation that spans from physical infrastructure to application-level integration.
 
 ---
 
@@ -27,8 +29,8 @@ Currently exploring cloud infrastructure, data integration, and process automati
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Cloud & Infrastructure**
@@ -36,10 +38,30 @@ Currently exploring cloud infrastructure, data integration, and process automati
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Automation & AI**
 
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+</div>
+
+---
+
+## Certifications
+
+<div align="center">
+
+[![Santander N8N](https://img.shields.io/badge/Santander%202025%20--%20Automacao%20com%20N8N-EC0000?style=for-the-badge&logo=santander&logoColor=white)](https://www.dio.me/certificate/K3NDQ2MD)
+
+`Digital Innovation One · Janeiro 2026 · 26h · ID: K3NDQ2MD`
 
 </div>
 
