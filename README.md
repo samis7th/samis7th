@@ -25,25 +25,7 @@ Currently expanding into Cloud Computing with AWS and Cybersecurity, with a stro
 
 ---
 
-## Experience
-
-**Development Intern** — HM Solucoes `Oct 2025 - Present`
-- Built N8N automations to eliminate repetitive tasks and optimize client communication
-- Developed WhatsApp-integrated flows reducing response time and increasing operational efficiency
-- Integrated Google Sheets via API for automated data centralization and organization
-- Also acted as IT Technician and logistics assistant, supporting infrastructure and operational routines
-
-**IT Support Technician (Intern)** — Prefeitura de Lins `1 year 7 months`
-- Resolved 100+ support tickets via on-site and remote assistance
-- Maintained network infrastructure including cabling, routers and switches
-- Installed and configured Windows and Linux operating systems
-- Managed IT inventory, documentation and internal user support
-
----
-
 ## Tech Stack
-
-<div align="center">
 
 **Programming Languages**
 
@@ -71,8 +53,6 @@ Currently expanding into Cloud Computing with AWS and Cybersecurity, with a stro
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-</div>
-
 ---
 
 ## Certifications
@@ -91,15 +71,25 @@ Currently expanding into Cloud Computing with AWS and Cybersecurity, with a stro
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=samis7th&theme=algolia&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=samis7th&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## Experience
+
+**Development Intern** — HM Solucoes `Oct 2025 - Present`
+- Built N8N automations to eliminate repetitive tasks and optimize client communication
+- Developed WhatsApp-integrated flows reducing response time and increasing operational efficiency
+- Integrated Google Sheets via API for automated data centralization and organization
+- Also acted as IT Technician and logistics assistant, supporting infrastructure and operational routines
+
+**IT Support Technician (Intern)** — Prefeitura de Lins `1 year 7 months`
+- Resolved 100+ support tickets via on-site and remote assistance
+- Maintained network infrastructure including cabling, routers and switches
+- Installed and configured Windows and Linux operating systems
+- Managed IT inventory, documentation and internal user support
 
 ---
 
