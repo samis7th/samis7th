@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;N8N+Developer+%26+Process+Automation;AI+Solutions+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;IT+Support+%26+Infrastructure;N8N+Developer+%26+Process+Automation;AI+Solutions+Builder)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,11 +17,13 @@
 
 ## About
 
-Software Engineering student in the 7th semester, currently working as a Development Intern at HM Solucoes, where I build N8N automations to eliminate repetitive tasks and optimize client communication — including WhatsApp-integrated flows and Google Sheets data pipelines via API.
+Software Engineering student, currently working as an IT Support Analyst (N1) at Penso Tecnologia, handling infrastructure monitoring, ticket triage, firewall/VPN configuration, and OS deployment across the organization.
 
-Previously worked for over 1.5 years as an IT Support Technician at the city of Lins, handling more than 100 support tickets, network infrastructure maintenance, and OS configuration across Windows and Linux environments.
+Previously worked as a Development Intern at HM Solucoes, building N8N automations to eliminate repetitive tasks and optimize client communication — including WhatsApp-integrated flows and Google Sheets data pipelines via API.
 
-Currently expanding into Cloud Computing with AWS and Cybersecurity, with a strong foundation that spans from physical infrastructure to application-level integration.
+Before that, spent over 1.5 years as an IT Support Technician at the city of Lins, handling more than 100 support tickets, network infrastructure maintenance, and OS configuration across Windows and Linux environments.
+
+Currently exploring personal projects in distributed systems, containerizing services with Docker and deploying them to the cloud, alongside ongoing studies in AWS and Cybersecurity — building a foundation that spans from physical infrastructure to application-level integration.
 
 ---
 
@@ -40,6 +42,11 @@ Currently expanding into Cloud Computing with AWS and Cybersecurity, with a stro
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Networking & Security**
+
+![Firewall](https://img.shields.io/badge/Firewalls-005571?style=for-the-badge&logo=cisco&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-1a73e8?style=for-the-badge&logo=wireguard&logoColor=white)
 
 **Automation & AI**
 
@@ -79,13 +86,19 @@ Currently expanding into Cloud Computing with AWS and Cybersecurity, with a stro
 
 ## Experience
 
-**Development Intern** — HM Solucoes `Oct 2025 - Present`
+**IT Support Analyst (N1)** — Penso Tecnologia `Sep 2026 - Present`
+- Handle ticket triage and resolution within SLA, ensuring operational continuity
+- Configure and maintain firewalls and VPNs, ensuring corporate network security and stability
+- Install, configure and maintain operating systems and workstations
+- Proactively monitor IT infrastructure, identifying and resolving technical issues
+
+**Development Intern** — HM Solucoes `Oct 2025 - May 2026`
 - Built N8N automations to eliminate repetitive tasks and optimize client communication
 - Developed WhatsApp-integrated flows reducing response time and increasing operational efficiency
 - Integrated Google Sheets via API for automated data centralization and organization
 - Also acted as IT Technician and logistics assistant, supporting infrastructure and operational routines
 
-**IT Support Technician (Intern)** — Prefeitura de Lins `1 year 7 months`
+**IT Support Technician (Intern)** — Prefeitura de Lins `Mar 2024 - Sep 2025 (1 year 7 months)`
 - Resolved 100+ support tickets via on-site and remote assistance
 - Maintained network infrastructure including cabling, routers and switches
 - Installed and configured Windows and Linux operating systems
