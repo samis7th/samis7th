@@ -123,7 +123,8 @@ At **FLS Consultoria** I designed and shipped the company's lead automation stac
 ## Experience
 
 **Automation & Software Developer · Paid Traffic Manager**, FLS Consultoria `Oct 2026 - Present`
-- Built and maintain 3 Node.js systems in production (lead API, WhatsApp assistant and admin dashboard), integrated with 12 services such as Monday.com, Meta Conversions API, Hotmart, ManyChat and Calendly
+- Built and maintain 3 Node.js systems in production: a lead capture API, a WhatsApp pre-sales assistant and the team's admin dashboard
+- Integrated 12 services, including Monday.com CRM, Meta Conversions API, Hotmart, ManyChat/WhatsApp, Calendly and Google Calendar
 - Manage paid traffic on Meta Ads and ChatGPT Ads, with conversion tracking from the ad to each lead and sale
 - Results: zero leads lost during a CRM outage, instant form confirmation and a campaign reaching 412 subscribers automatically
 
