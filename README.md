@@ -17,15 +17,11 @@
 
 ## About
 
-Hey, I'm Samuel 👋 I'm a Software Engineering student, and I like the moment when something I built leaves my machine and starts solving a real problem for real people.
+Hey, I'm Samuel 👋 I'm a Software Engineering student who likes building things that solve real problems for real people.
 
-I got hooked on automation during my internship at **HM Solucoes**. There I built N8N flows that took repetitive work off people's plates: WhatsApp-integrated conversations that cut client response time, and Google Sheets pipelines that kept data organized without anyone copying and pasting. That's when I realized I wanted to build things that change how a team works.
+I got hooked on automation at **HM Solucoes**, building N8N flows. At **FLS Consultoria** I went further: I build the company's lead automation systems in Node.js and manage its paid traffic, so I see both the ad that brings the lead and the system that turns it into a sale. I also work as an IT Support Analyst at Penso Tecnologia.
 
-At **FLS Consultoria** I took that much further. I went from flows to full systems: I designed, built and maintain the company's lead automation stack in Node.js. A lead API, a WhatsApp assistant and an admin dashboard run in production every day, connected to the CRM, Meta Ads, payments, calendars and e-mail. I also manage the company's paid traffic, so I get to see both sides: the ad that brings the lead and the system that turns it into a meeting or a sale. I build with AI as a pair programmer, but I keep the engineering solid: tests, security and clean integrations.
-
-My path started in IT support, and today I also work as an IT Support Analyst at Penso Tecnologia. That background gave me a feel for infrastructure that I carry into everything I build.
-
-When I'm not coding, I'm studying AWS and Cybersecurity, playing with Docker and distributed systems, or listening to music on Spotify 🎧. My goal is to understand the whole path, from the cable in the wall to the API in the cloud.
+Outside work, I'm studying AWS, Cybersecurity and Docker, usually with music on Spotify 🎧.
 
 ---
 
@@ -123,13 +119,9 @@ At **FLS Consultoria** I designed and shipped the company's lead automation stac
 ## Experience
 
 **Automation & Software Developer · Paid Traffic Manager**, FLS Consultoria `Oct 2026 - Present`
-- Manage paid traffic campaigns on Meta Ads (Facebook/Instagram) and ChatGPT Ads, from campaign setup and audiences to budget, creatives and performance reports
-- Designed, built and maintain the company's lead automation stack (3 Node.js systems in production), integrating 12 services including Monday.com CRM, Meta Conversions API, Hotmart, ManyChat/WhatsApp, Calendly, Google Calendar, Brevo and Telegram
-- Built a queue-based lead API that answers instantly and never loses a signup, even during CRM outages (confirmation time down from 10–15 s to instant)
-- Developed a WhatsApp pre-sales assistant that qualifies leads by revenue, books meetings and sends automated reminders; one campaign reached 412 subscribers with no manual work
-- Built the team's admin dashboard with real-time metrics, integration health checks and secure authentication
-- Connected ads to sales: server-side conversion tracking (Meta Conversions API) and campaign attribution down to each lead and purchase in the CRM
-- Used AI-assisted development (Claude Code, multi-agent code and security reviews), backed by 408 automated tests and LGPD compliance
+- Built and maintain 3 Node.js systems in production (lead API, WhatsApp assistant and admin dashboard), integrated with 12 services such as Monday.com, Meta Conversions API, Hotmart, ManyChat and Calendly
+- Manage paid traffic on Meta Ads and ChatGPT Ads, with conversion tracking from the ad to each lead and sale
+- Results: zero leads lost during a CRM outage, instant form confirmation and a campaign reaching 412 subscribers automatically
 
 **IT Support Analyst (N1)**, Penso Tecnologia `Sep 2026 - Present`
 - Handle ticket triage and resolution within SLA, ensuring operational continuity
