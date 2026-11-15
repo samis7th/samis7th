@@ -23,6 +23,8 @@ I got hooked on automation at **HM Solucoes**, building N8N flows. At **FLS Cons
 
 Outside work, I'm studying AWS, Cybersecurity and Docker, usually with music on Spotify 🎧.
 
+➡️ More details, with every project and my experience, in English and Portuguese: samis7th.github.io
+
 ---
 
 ## 🚀 Featured: lead automation in production
@@ -45,7 +47,6 @@ At **FLS Consultoria** I designed and shipped the company's lead automation stac
 
 **Integrations:** Monday.com · Meta Conversions API · Hotmart · WhatsApp/ManyChat · Instagram · Calendly · Google Calendar · Brevo · Telegram · MySQL · Squarespace · Hostinger
 
-➡️ More details, with every project and my experience, in English and Portuguese: **[samis7th.github.io](https://samis7th.github.io)**
 
 ---
 
