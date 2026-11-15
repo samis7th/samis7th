@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;IT+Support+%26+Infrastructure;N8N+Developer+%26+Process+Automation;AI+Solutions+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Building+Production+Systems+with+AI;Node.js+%26+API+Integrations;IT+Support+%26+Infrastructure;N8N+Developer+%26+Process+Automation)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,13 +17,36 @@
 
 ## About
 
-Software Engineering student, currently working as an IT Support Analyst (N1) at Penso Tecnologia, handling infrastructure monitoring, ticket triage, firewall/VPN configuration, and OS deployment across the organization.
+I'm a Software Engineering student who builds **systems that run in production and get used by real people every day**.
 
-Previously worked as a Development Intern at HM Solucoes, building N8N automations to eliminate repetitive tasks and optimize client communication — including WhatsApp-integrated flows and Google Sheets data pipelines via API.
+At **FLS Consultoria** I designed and shipped the company's lead automation stack:
+- an API that captures leads from landing pages;
+- a WhatsApp assistant that qualifies leads, books meetings and sends reminders;
+- an admin dashboard the team uses daily.
 
-Before that, spent over 1.5 years as an IT Support Technician at the city of Lins, handling more than 100 support tickets, network infrastructure maintenance, and OS configuration across Windows and Linux environments.
+Together they're integrated with **12 services**, including the CRM, Meta Ads, the payment platform and calendars. They replaced manual work across the whole sales funnel, from the ad click to the booked meeting or the approved purchase. I built them with **AI-assisted development (Claude Code)** and kept engineering discipline throughout: 408 automated tests, security review and LGPD compliance.
 
-Currently exploring personal projects in distributed systems, containerizing services with Docker and deploying them to the cloud, alongside ongoing studies in AWS and Cybersecurity — building a foundation that spans from physical infrastructure to application-level integration.
+I also work as an **IT Support Analyst (N1)** at Penso Tecnologia, covering infrastructure monitoring, firewall/VPN and OS deployment. Before that I was a development intern building N8N automations and spent 1.5+ years in IT support for the city of Lins. That background spans from physical infrastructure to application-level integration.
+
+---
+
+## 🚀 Featured: lead automation in production
+
+> These three systems run daily at a real company. The code was anonymized for publication ("Acme", `example.com`), and the logic is the same as in production.
+
+| Repository | What it does | Tests |
+|---|---|---|
+| 📥 [**lead-capture-api**](https://github.com/samis7th/lead-capture-api) | Captures landing page leads into the CRM (Monday.com), sends conversions to the Meta Conversions API and processes Hotmart payment webhooks. Queue-based, so **no lead is lost** even when the CRM is down. | 61 |
+| 💬 [**whatsapp-assistant**](https://github.com/samis7th/whatsapp-assistant) | WhatsApp pre-sales assistant (ManyChat): qualifies leads by revenue, books meetings (Calendly + Google Calendar), sends WhatsApp and e-mail reminders and runs a weekly mentoring raffle. | 306 |
+| 📊 [**admin-dashboard**](https://github.com/samis7th/admin-dashboard) | Team dashboard: real-time leads, charts, meetings, raffle management and live health of every integration. Secure login, demo mode. | 41 |
+
+**Measurable impact**
+- ⚡ Form confirmation went from **10–15 s to instant**. During a CRM outage, **zero signups were lost**.
+- 🤝 One automated WhatsApp campaign reached **412 subscribers** with no manual sending.
+- 💰 Every sale reaches the CRM with its ad campaign of origin, so the return of each channel is measurable.
+- ⏱️ Data entry, reminders, group checks, raffles and alerts are no longer done by hand, so the team can focus on meetings and sales.
+
+**Integrations:** Monday.com · Meta Conversions API · Hotmart · WhatsApp/ManyChat · Instagram · Calendly · Google Calendar · Brevo · Telegram · MySQL · Squarespace · Hostinger
 
 ---
 
@@ -31,10 +54,19 @@ Currently exploring personal projects in distributed systems, containerizing ser
 
 **Programming Languages**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20%26%20Webhooks-02569B?style=for-the-badge&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 **Cloud & Infrastructure**
 
@@ -50,8 +82,11 @@ Currently exploring personal projects in distributed systems, containerizing ser
 
 **Automation & AI**
 
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ManyChat](https://img.shields.io/badge/ManyChat-0084FF?style=for-the-badge&logo=messenger&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta%20Conversions%20API-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 **Tools & DevOps**
 
@@ -86,19 +121,26 @@ Currently exploring personal projects in distributed systems, containerizing ser
 
 ## Experience
 
-**IT Support Analyst (N1)** — Penso Tecnologia `Sep 2026 - Present`
+**Automation & Software Developer**, FLS Consultoria `Oct 2026 - Present`
+- Designed, built and maintain the company's lead automation stack (3 Node.js systems in production), integrating 12 services including Monday.com CRM, Meta Conversions API, Hotmart, ManyChat/WhatsApp, Calendly, Google Calendar, Brevo and Telegram
+- Built a queue-based lead API that answers instantly and never loses a signup, even during CRM outages (confirmation time down from 10–15 s to instant)
+- Developed a WhatsApp pre-sales assistant that qualifies leads by revenue, books meetings and sends automated reminders; one campaign reached 412 subscribers with no manual work
+- Built the team's admin dashboard with real-time metrics, integration health checks and secure authentication
+- Used AI-assisted development (Claude Code, multi-agent code and security reviews), backed by 408 automated tests and LGPD compliance
+
+**IT Support Analyst (N1)**, Penso Tecnologia `Sep 2026 - Present`
 - Handle ticket triage and resolution within SLA, ensuring operational continuity
 - Configure and maintain firewalls and VPNs, ensuring corporate network security and stability
 - Install, configure and maintain operating systems and workstations
 - Proactively monitor IT infrastructure, identifying and resolving technical issues
 
-**Development Intern** — HM Solucoes `Oct 2025 - May 2026`
+**Development Intern**, HM Solucoes `Oct 2025 - May 2026`
 - Built N8N automations to eliminate repetitive tasks and optimize client communication
 - Developed WhatsApp-integrated flows reducing response time and increasing operational efficiency
 - Integrated Google Sheets via API for automated data centralization and organization
 - Also acted as IT Technician and logistics assistant, supporting infrastructure and operational routines
 
-**IT Support Technician (Intern)** — Prefeitura de Lins `Mar 2024 - Sep 2025 (1 year 7 months)`
+**IT Support Technician (Intern)**, Prefeitura de Lins `Mar 2024 - Sep 2025 (1 year 7 months)`
 - Resolved 100+ support tickets via on-site and remote assistance
 - Maintained network infrastructure including cabling, routers and switches
 - Installed and configured Windows and Linux operating systems
