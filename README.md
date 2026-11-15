@@ -8,8 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-trevisan)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelltrevisan@gmail.com)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/sh2kan)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/aub1gk1hikowdil2zzxst38gq?si=603fe6b00b654935)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/aub1gk1hikowdil2zzxst38gq?si=3f0d534ca3af4fef)
 
 </div>
 
@@ -17,20 +16,19 @@
 
 ## About
 
-I'm a Software Engineering student who builds **systems that run in production and get used by real people every day**.
+Hey, I'm Samuel 👋 I'm a Software Engineering student, and I like the moment when something I built leaves my machine and starts solving a real problem for real people.
 
-At **FLS Consultoria** I designed and shipped the company's lead automation stack:
-- an API that captures leads from landing pages;
-- a WhatsApp assistant that qualifies leads, books meetings and sends reminders;
-- an admin dashboard the team uses daily.
+My path started on the hardware side. I fixed computers, ran network cables and closed 100+ support tickets for the city of Lins. Today I work as an IT Support Analyst (N1) at Penso Tecnologia, handling infrastructure monitoring, ticket triage, firewall/VPN configuration and OS deployment.
 
-Together they're integrated with **12 services**, including the CRM, Meta Ads, the payment platform and calendars. They replaced manual work across the whole sales funnel, from the ad click to the booked meeting or the approved purchase. I built them with **AI-assisted development (Claude Code)** and kept engineering discipline throughout: 408 automated tests, security review and LGPD compliance.
+Along the way I got hooked on automation. It started with N8N flows during my internship at HM Solucoes. Now I build full systems in Node.js that run in production every day, using AI as a pair programmer while keeping the engineering solid: tests, security and clean integrations.
 
-I also work as an **IT Support Analyst (N1)** at Penso Tecnologia, covering infrastructure monitoring, firewall/VPN and OS deployment. Before that I was a development intern building N8N automations and spent 1.5+ years in IT support for the city of Lins. That background spans from physical infrastructure to application-level integration.
+When I'm not coding, I'm studying AWS and Cybersecurity, playing with Docker and distributed systems, or listening to music on Spotify 🎧. My goal is to understand the whole path, from the cable in the wall to the API in the cloud.
 
 ---
 
 ## 🚀 Featured: lead automation in production
+
+At **FLS Consultoria** I designed and shipped the company's lead automation stack: three Node.js systems integrated with **12 services**. They replaced manual work across the whole sales funnel, from the ad click to the booked meeting or the approved purchase. I built them with **AI-assisted development (Claude Code)** and backed them with 408 automated tests, a security review and LGPD compliance.
 
 > These three systems run daily at a real company. The code was anonymized for publication ("Acme", `example.com`), and the logic is the same as in production.
 
@@ -121,11 +119,13 @@ I also work as an **IT Support Analyst (N1)** at Penso Tecnologia, covering infr
 
 ## Experience
 
-**Automation & Software Developer**, FLS Consultoria `Oct 2026 - Present`
+**Automation & Software Developer · Paid Traffic Manager**, FLS Consultoria `Oct 2026 - Present`
+- Manage paid traffic campaigns on Meta Ads (Facebook/Instagram) and ChatGPT Ads, from campaign setup and audiences to budget, creatives and performance reports
 - Designed, built and maintain the company's lead automation stack (3 Node.js systems in production), integrating 12 services including Monday.com CRM, Meta Conversions API, Hotmart, ManyChat/WhatsApp, Calendly, Google Calendar, Brevo and Telegram
 - Built a queue-based lead API that answers instantly and never loses a signup, even during CRM outages (confirmation time down from 10–15 s to instant)
 - Developed a WhatsApp pre-sales assistant that qualifies leads by revenue, books meetings and sends automated reminders; one campaign reached 412 subscribers with no manual work
 - Built the team's admin dashboard with real-time metrics, integration health checks and secure authentication
+- Connected ads to sales: server-side conversion tracking (Meta Conversions API) and campaign attribution down to each lead and purchase in the CRM
 - Used AI-assisted development (Claude Code, multi-agent code and security reviews), backed by 408 automated tests and LGPD compliance
 
 **IT Support Analyst (N1)**, Penso Tecnologia `Sep 2026 - Present`
