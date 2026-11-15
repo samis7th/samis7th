@@ -18,9 +18,11 @@
 
 Hey, I'm Samuel 👋 I'm a Software Engineering student, and I like the moment when something I built leaves my machine and starts solving a real problem for real people.
 
-My path started on the hardware side. I fixed computers, ran network cables and closed 100+ support tickets for the city of Lins. Today I work as an IT Support Analyst (N1) at Penso Tecnologia, handling infrastructure monitoring, ticket triage, firewall/VPN configuration and OS deployment.
+I got hooked on automation during my internship at **HM Solucoes**. There I built N8N flows that took repetitive work off people's plates: WhatsApp-integrated conversations that cut client response time, and Google Sheets pipelines that kept data organized without anyone copying and pasting. That's when I realized I wanted to build things that change how a team works.
 
-Along the way I got hooked on automation. It started with N8N flows during my internship at HM Solucoes. Now I build full systems in Node.js that run in production every day, using AI as a pair programmer while keeping the engineering solid: tests, security and clean integrations.
+At **FLS Consultoria** I took that much further. I went from flows to full systems: I designed, built and maintain the company's lead automation stack in Node.js. A lead API, a WhatsApp assistant and an admin dashboard run in production every day, connected to the CRM, Meta Ads, payments, calendars and e-mail. I also manage the company's paid traffic, so I get to see both sides: the ad that brings the lead and the system that turns it into a meeting or a sale. I build with AI as a pair programmer, but I keep the engineering solid: tests, security and clean integrations.
+
+My path started in IT support, and today I also work as an IT Support Analyst at Penso Tecnologia. That background gave me a feel for infrastructure that I carry into everything I build.
 
 When I'm not coding, I'm studying AWS and Cybersecurity, playing with Docker and distributed systems, or listening to music on Spotify 🎧. My goal is to understand the whole path, from the cable in the wall to the API in the cloud.
 
