@@ -23,8 +23,6 @@ I got hooked on automation at **HM Solucoes**, building N8N flows. At **FLS Cons
 
 Outside work, I'm studying AWS, Cybersecurity and Docker, usually with music on Spotify 🎧.
 
-🌐 **See my portfolio:** [samis7th.github.io](https://samis7th.github.io)
-
 ---
 
 ## 🚀 Featured: lead automation in production
